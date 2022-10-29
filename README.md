@@ -1,4 +1,6 @@
-# Patika.dev
+Insertion Sort
+
+for www.patika.dev/tr
 
 
 Proje 1
